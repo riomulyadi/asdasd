@@ -1,0 +1,6 @@
+{
+  "name": "Secure Payload Lab",
+  "description": "A developer tool for testing and understanding XSS payloads, focusing on React's built-in security features and safe rendering practices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
